@@ -101,7 +101,7 @@ font-size: 16px;
   color:grey;
 }
 
-@media (min-width:400px) {
+@media (min-width:320px) {
   .main_title h1{
     font-size: 30px;
   }
