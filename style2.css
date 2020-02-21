@@ -117,7 +117,7 @@ opacity:70%;
     font-size: 16px;
 }
 
-@media (min-width:400px) {
+@media (min-width:320px) {
     .fit-image{
         object-fit: center;
         height: 120px;
