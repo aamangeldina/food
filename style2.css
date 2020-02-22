@@ -120,8 +120,8 @@ opacity:70%;
 @media (min-width:320px) {
     .fit-image{
         object-fit: center;
-        height: 40px;
-        width: 40px;
+        height: 100px;
+        width: 100px;
     }
     .title h1{
         padding-top: 10%;
